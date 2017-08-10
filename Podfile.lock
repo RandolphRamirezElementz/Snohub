@@ -1,0 +1,35 @@
+PODS:
+  - CryptoSwift (0.6.8)
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+  - Kingfisher (3.6.1)
+  - KYCircularProgress (1.0.0)
+  - Stripe (10.0.1)
+  - TwilioSDK (1.2.11)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - GoogleMaps (~> 2.2)
+  - GooglePlaces (~> 2.1)
+  - Kingfisher (~> 3.0)
+  - KYCircularProgress
+  - Stripe
+  - TwilioSDK
+
+SPEC CHECKSUMS:
+  CryptoSwift: f21ea03ed3a94e79d241648ce26652cd4810508a
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+  Kingfisher: 2f31cb75f3e98d3d4c406cbdcd9b263e956cfa67
+  KYCircularProgress: e83d5346247c917182b451c6357fd96b3c3d71b6
+  Stripe: dd6df0e2c6a8463e2f1ca9b15dc246e5ae1eee64
+  TwilioSDK: c1efd3b273c243b5a034baa0d29ad370afb893d9
+
+PODFILE CHECKSUM: 3e7897c57a9b82575fc9c426522a38cd2796c1f5
+
+COCOAPODS: 1.1.1

@@ -1,1 +1,1 @@
-# Snohub
+# snowhub-app

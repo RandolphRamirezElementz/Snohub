@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>snowDepthMax</key>
+	<integer>24</integer>
+	<key>roadLengths</key>
+	<array>
+		<string>0-250 feet</string>
+		<string>251-500 feet</string>
+		<string>501-750 feet</string>
+		<string>750+ feet</string>
+	</array>
+	<key>stripe_public_key</key>
+	<string>pk_test_cvdhKps2UkdxmuMTYxsWNguH</string>
+	<key>socket_addr</key>
+	<string>ws://snowhub.transparen.com:5000</string>
+	<key>host</key>
+	<string>http://snowhub.transparen.com:5000</string>
+</dict>
+</plist>
